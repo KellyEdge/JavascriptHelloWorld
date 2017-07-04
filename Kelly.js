@@ -10,7 +10,7 @@ $( document ).ready(function() {
      }*/
 
     $("#btnHelloWorld").click(function(){
-        alert("Hello World!");
+        alert("Super Duper!");
     });
 
 });
